@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/laffingDragons/ann-calculations/static/css/main.2d20cf2e.css",
+    "main.js": "/laffingDragons/ann-calculations/static/js/main.1a1c531d.js",
+    "static/js/453.f6f420c4.chunk.js": "/laffingDragons/ann-calculations/static/js/453.f6f420c4.chunk.js",
+    "static/media/logo.svg": "/laffingDragons/ann-calculations/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/laffingDragons/ann-calculations/index.html",
+    "main.2d20cf2e.css.map": "/laffingDragons/ann-calculations/static/css/main.2d20cf2e.css.map",
+    "main.1a1c531d.js.map": "/laffingDragons/ann-calculations/static/js/main.1a1c531d.js.map",
+    "453.f6f420c4.chunk.js.map": "/laffingDragons/ann-calculations/static/js/453.f6f420c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d20cf2e.css",
+    "static/js/main.1a1c531d.js"
+  ]
+}
